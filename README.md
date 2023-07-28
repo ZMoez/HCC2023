@@ -1,11 +1,10 @@
+![alt text](http://url/to/img.png)
 
 # HCC2023
 
-<!--
-[![One Page Wonder Preview](https://assets.startbootstrap.com/img/screenshots/themes/one-page-wonder.png)](https://startbootstrap.github.io/startbootstrap-one-page-wonder/)
--->
 
-**Workshop on Human Centric Cybersecurity**
+
+**Workshop on Human Centric Cybersecurity HCC2023**
 
 **[Mälardalen University](https://www.mdu.se/en/malardalen-university), Västerås, Sweden**
 
