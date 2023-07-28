@@ -4,17 +4,17 @@
 
 <!-- <a href="url"><img src="./IMG_0898.jpg" align="left" height="48" width="48" opacity="0.5";></a> -->
 
-<!--
+
 # HCC2023
--->
 
 
+<!--
 **Workshop on Human Centric Cybersecurity HCC2023**
 
 **[Mälardalen University](https://www.mdu.se/en/malardalen-university), Västerås, Sweden**
 
 **August 24th, 2023**
-
+-->
 
 ## About
 
