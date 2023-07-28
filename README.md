@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](./IMG_0898.jpg)
 
 # HCC2023
 
