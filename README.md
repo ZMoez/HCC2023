@@ -24,7 +24,9 @@ We invited experts in the field to …
 ## Confirmed Speakers
 <!-- FIXME Check the links -->
 <!-- <a href="https://www.tudelft.nl/staff/s.e.parkin/?cHash=ef8a6923cb175152ae46a2749ee95259" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Simon Parkin, TU Delft</a> -->
-#### [Simon Parkin](https://www.tudelft.nl/staff/s.e.parkin/?cHash=ef8a6923cb175152ae46a2749ee95259), TU Delft 
+
+
+#### <a href="url"><img src="" align="left" height="48" width="48" opacity="0.5";></a> [Simon Parkin](https://www.tudelft.nl/staff/s.e.parkin/?cHash=ef8a6923cb175152ae46a2749ee95259), TU Delft 
 **Title:** TBA
 
 **Abstract:** TBA
