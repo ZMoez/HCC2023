@@ -37,10 +37,12 @@ We invited experts in the field to …
 **Bio:** TBA
 
 
-<img src="./SGabriele-Lenzini.png" align="left" height="90" width="90" >
+<img src="./Gabriele-Lenzini.png" align="left" height="90" width="90" >
 
 #### [Gabriele Lenzini](), University of Luxembourg
 **Title:** TBA
+
+<br /> 
 
 **Abstract:** TBA
 
