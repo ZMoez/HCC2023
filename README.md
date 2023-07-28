@@ -25,14 +25,19 @@ We invited experts in the field to …
 <!-- FIXME Check the links -->
 <!-- <a href="https://www.tudelft.nl/staff/s.e.parkin/?cHash=ef8a6923cb175152ae46a2749ee95259" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Simon Parkin, TU Delft</a> -->
 
+<img src="./SimonParkin.jpeg" align="left" height="90" width="90" >
 
-#### <a href="url"><img src="" align="left" height="48" width="48" opacity="0.5";></a> [Simon Parkin](https://www.tudelft.nl/staff/s.e.parkin/?cHash=ef8a6923cb175152ae46a2749ee95259), TU Delft 
+#### [Simon Parkin](https://www.tudelft.nl/staff/s.e.parkin/?cHash=ef8a6923cb175152ae46a2749ee95259), TU Delft 
 **Title:** TBA
+
+<br /> 
 
 **Abstract:** TBA
 
 **Bio:** TBA
 
+
+<img src="./SGabriele-Lenzini.png" align="left" height="90" width="90" >
 
 #### [Gabriele Lenzini](), University of Luxembourg
 **Title:** TBA
