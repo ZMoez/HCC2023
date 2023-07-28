@@ -49,9 +49,12 @@ We invited experts in the field to …
 **Bio:** TBA
 
 
+<img src="./PaoloMasci.jpeg" align="left" height="90" width="90" >
 
 #### [Paolo Masci](https://www.nianet.org/directory/research-staff/paolo-masci/),Research Scientist and Principal AssociateFrom NASA Langley Research Center
 **Title:** TBA
+
+<br /> 
 
 **Abstract:** TBA
 
