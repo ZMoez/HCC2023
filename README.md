@@ -25,20 +25,28 @@
 -->
 
 ## About
-
-We are organizing the Workshop on human centric cybersecurity to use the knowledge and experience of the experts in the field and strengthen our knowledge on human-centric research. 
-We invited experts in the field to …
+We are organizing the workshop on human-centric cybersecurity to use the knowledge and experience of the experts in the field and to strengthen our knowledge on human-centric research. 
+We have invited experts in the field from all over the world to give the invited talks.
 
 ## Confirmed Speakers
 <!-- FIXME Check the links -->
-<!-- <a href="https://www.tudelft.nl/staff/s.e.parkin/?cHash=ef8a6923cb175152ae46a2749ee95259" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Simon Parkin, TU Delft</a> -->
+**[Simon Parkin](https://www.tudelft.nl/staff/s.e.parkin/?cHash=ef8a6923cb175152ae46a2749ee95259), TU Delft** 
 
+**[Gabriele Lenzini](), University of Luxembourg**
+
+**[Paolo Masci](https://www.nianet.org/directory/research-staff/paolo-masci/), Research Scientist and Principal AssociateFrom NASA Langley Research Center**
+
+
+
+
+<!--
 <img src="./SimonParkin.jpeg" align="left" height="90" width="90" >
 
 #### [Simon Parkin](https://www.tudelft.nl/staff/s.e.parkin/?cHash=ef8a6923cb175152ae46a2749ee95259), TU Delft 
 **Title:** TBA
 
 <br /> 
+
 
 **Abstract:** TBA
 
@@ -68,14 +76,16 @@ We invited experts in the field to …
 
 **Bio:** TBA
 
-
+-->
 
 ## Schedule
 TBA
 
 ## Place
 <!-- FIXME Insert teams link -->
-Milos, MDU, Västerås (also available online: Teams link)
+**Milos** conference room, Second floor of R building, MDU, Västerås. 
+
+Please note that this is a hybrid event and you can also follow online, but a reliable connection would not guaranteed.
 
 
 
