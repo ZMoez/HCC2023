@@ -1,5 +1,4 @@
 <meta charset="utf-8">
-<title>Redirecting to https://HCC2023.github.io </title>
 <meta http-equiv="refresh" content="0; URL=https://HCC2023.github.io">
 
 <!--
