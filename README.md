@@ -1,4 +1,6 @@
+<meta charset="utf-8">
 
+<meta http-equiv="refresh" content="0; URL=https://HCC2023.github.io">
 
 <!--
 <img src="./HCC2023-2.png" align="left" height="400" width="1024" >
